@@ -1,0 +1,12 @@
+// import { apikey } from "./utils";
+// import { val } from "./utils";
+// import * as utils from "./utils.js";
+// console.log(utils.apikey);
+// console.log(utils.val);
+// console.log(utils.default);
+const userName = "Dhruvamalik1205";
+let pass = "dhr123";
+console.log(userName);
+console.log(pass);
+let numberArray = [1, 2, 3, 4, 5];
+console.log(numberArray.map((item) => ({ val: item })));

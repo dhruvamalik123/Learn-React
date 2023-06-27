@@ -1,0 +1,13 @@
+we can use a javascript file in a html file using <script> tag
+example
+<script src="index.js"></script>
+
+
+we can add the keyword defer in the script tag so that the javascript is executed after the html has been loaded
+<script src="index.js" defer></script>
+
+
+we can also add type="module" so that the file index.js is treated as a module. That is , in index.js we can make the use of import commands to import functions and other things 
+from different javascript files/modules
+<script src="index.js" type="module"></script>
+

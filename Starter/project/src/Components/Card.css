@@ -1,0 +1,5 @@
+.card {
+  padding: 5px 5px 5px 5px;
+  display: flex;
+  list-style-type: none;
+}

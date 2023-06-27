@@ -1,0 +1,38 @@
+React is a client side javascript library to create/build user interface 
+it is not a framework , but a library
+Focuses only on rich user interfaces
+React has a rich ecosystem , and is fully capable of building fully fledged web application
+created and maintained by facebook
+Can find stackoverflow solutions to different react problems
+
+--------------
+
+React has a component bases architecture
+which means that it allows us break down the applications  in small encapulated blocks
+example :- Header
+           SideNav
+           Main content (Body)
+           Footer
+Components also make it easy to make usable code , for example , if we create a component in react (an article)
+we can easily use them in angular / vue javascript
+
+--------------
+
+React is declarative 
+This means that we tell react what we want and the react with its react DOM library will build the actual ui
+Known as declarative Paradigm
+React makes it easy to create complex ui by abstracting the difficult parts 
+React handles efficiently the updating and rendering of the components when there are changes
+DOM updates are graceful in React
+
+--------------
+
+React native is used for mobile applications
+
+--------------
+
+JavaScript can be used to manipulate DOM (Document Object Model)
+
+--------------
+
+React projects use a build process , that is , we dont declare a script tag inside the html file , but instead everything is done inside the javascript file
